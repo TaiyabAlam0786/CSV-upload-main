@@ -14,7 +14,7 @@
 
 
 ## 🔗 Live Demo
-[render Link (Preview Project)](https://csv-upload-voyy.onrender.com/)
+[render Link (Preview Project)](https://csv-upload-file-15lj.onrender.com/))
 
 
 
@@ -22,11 +22,7 @@
 
 ## Preview📸
 - PC💻 (Home Page)
-![PC Preview](https://github.com/shivraj0002/CSV_Upload_Assignment/blob/main/assets/demo/home.png?raw=true)
-
-- PC💻(File View Page)
-![PC Preview](https://github.com/shivraj0002/CSV_Upload_Assignment/blob/main/assets/demo/viewFile.png?raw=true)
-
+![PC Preview](https://csv-upload-file-15lj.onrender.com/view/bf664524ed4eb1eb4cdd2224901a3d9b)
 
 
 ## Brief Information
