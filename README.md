@@ -22,7 +22,7 @@
 
 ## Preview📸
 - PC💻 (Home Page)
-![PC Preview](https://csv-upload-file-15lj.onrender.com/view/bf664524ed4eb1eb4cdd2224901a3d9b)
+![PC Preview](https://csv-upload-file-15lj.onrender.com/)
 
 
 ## Brief Information
@@ -65,5 +65,5 @@ CSV_Upload/
 ```
 
 ## 🔗 Links
-[render Link for This Project](https://csv-upload-voyy.onrender.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/shivraj0002)
+[render Link for This Project](https://csv-upload-file-15lj.onrender.com/)
+[![linkedin](https://www.linkedin.com/in/taiyab-alam-3rd-15a314226)
