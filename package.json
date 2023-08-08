@@ -11,7 +11,7 @@
     "node.js",
     "javascript"
   ],
-  "author": "Shivraj Dange",
+  "author": "Taiyab Alam",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
